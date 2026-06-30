@@ -1,0 +1,17 @@
+{
+  "name": "上海出差預算記帳",
+  "short_name": "出差預算",
+  "description": "上海出差即時預算與花費記帳，支援收據照片與報帳打包。",
+  "lang": "zh-Hant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EFEDE4",
+  "theme_color": "#C2674B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
